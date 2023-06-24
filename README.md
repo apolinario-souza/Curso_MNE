@@ -21,4 +21,13 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 
 ## Carregando e visualizando os dados 
 
+# **Aula 2**
 
+# Pré-processamento
+1. Identificando e excluindo canais "ruins"
+2. Identificando e excluindo trechos "ruins"
+3. Removendo Slow drifts
+4. Aplicando o notch filter (60Hz)
+5. Reparando artefatos com ICA
+6. Configurando uma referência para os dados de EEG
+7. Salvar o arquivo pré-processado
