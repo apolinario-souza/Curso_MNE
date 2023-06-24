@@ -33,6 +33,6 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 7. Salvar o arquivo pré-processado
 
 # **Aula 3**
-## 1. Inserir os eventos no arquivo
-## 2. Análise espectral
-## 3. Filtrar os dados em bandas
+1. Inserir os eventos no arquivo
+2. Análise espectral
+3. Filtrar os dados em bandas
