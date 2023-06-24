@@ -1,4 +1,4 @@
-# Curso_MNE
+# Workshop MNE-Python
 Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python** 
 
 # **Aula 1**
