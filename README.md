@@ -6,7 +6,30 @@
 # Workshop MNE-Python
 Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python** 
 
-# **Aula 1**
+## Vídeos com o conteúdo
+
+[Parte 1](https://www.youtube.com/watch?v=Dx-qFY-RWjM).
+
+[Parte 2](https://www.youtube.com/watch?v=-6MSJlK3OaI).
+
+[Parte 3](https://www.youtube.com/watch?v=j87AJRGYFSU).
+
+[Parte 4](https://www.youtube.com/watch?v=VZi3Zrr6OUg).
+
+[Parte 5](https://www.youtube.com/watch?v=lhajkRVZbFY).
+
+[Parte 6](https://www.youtube.com/watch?v=WelUVRMNM-0).
+
+[Parte 7](https://www.youtube.com/watch?v=iMo5ueA-Fdw).
+
+[Parte 8](https://www.youtube.com/watch?v=Dq9vLogq0Zk).
+
+[Parte 9](https://www.youtube.com/watch?v=GFLgzMuyQgQ).
+
+[Parte 10](https://www.youtube.com/watch?v=Vmjr4UTBW2E).
+
+
+# **Código 1**
 
 ## Ambiente de desenvolvimento
 - Instalar o Anaconda 
@@ -21,7 +44,7 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 
 ## Carregando e visualizando os dados 
 
-# **Aula 2**
+# **Código 2**
 
 # Pré-processamento
 1. Identificando e excluindo canais "ruins"
@@ -32,7 +55,9 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 6. Configurando uma referência para os dados de EEG
 7. Salvar o arquivo pré-processado
 
-# **Aula 3**
+# **Código 3**
 1. Inserir os eventos no arquivo
 2. Análise espectral
 3. Filtrar os dados em bandas
+
+
