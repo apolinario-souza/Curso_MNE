@@ -29,7 +29,7 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 [Parte 10](https://www.youtube.com/watch?v=Vmjr4UTBW2E).
 
 
-# **Código 1**
+# [**Código 1**](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
 
 ## Ambiente de desenvolvimento
 - Instalar o Anaconda 
@@ -44,7 +44,7 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 
 ## Carregando e visualizando os dados 
 
-# **Código 2**
+# [**Código 2**](https://github.com/apolinario-souza/Curso_MNE/blob/main/2.ipynb)
 
 # Pré-processamento
 1. Identificando e excluindo canais "ruins"
@@ -55,7 +55,7 @@ Um breve workshop de processamento de sinais de EEG utilizando **MNE-Python**
 6. Configurando uma referência para os dados de EEG
 7. Salvar o arquivo pré-processado
 
-# **Código 3**
+# [**Código 3**](https://github.com/apolinario-souza/Curso_MNE/blob/main/3.ipynb)
 1. Inserir os eventos no arquivo
 2. Análise espectral
 3. Filtrar os dados em bandas
